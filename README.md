@@ -1,5 +1,5 @@
 
-#Students: Sultan Abdu (S24109645)
+Students: Sultan Abdu (S24109645)
 
 How to run knights.py:
 
