@@ -1,7 +1,7 @@
 
-Students: Sultan Abdu (S24109645)
+#Students: Sultan Abdu (S24109645)
 
-#How to run knights.py:
+How to run knights.py:
 
 make sure `logic.py` is in the same directory and execute:
 ```bash
